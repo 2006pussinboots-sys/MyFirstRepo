@@ -6,4 +6,10 @@ hello
 
 hi
 
+hello
+
+new branch
+
+test merge
+
 
